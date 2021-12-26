@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jasun266
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Javascript(React js & Node js)
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me 18-37806-2@student.aiub.edu
+-     My website-> jasun266.github.io 
