@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasun266
+- 👋 Hi, I’m jasun
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Javascript(React js & Node js)
 - 💞️ I’m looking to collaborate on Web Development
