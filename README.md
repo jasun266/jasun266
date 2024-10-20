@@ -10,9 +10,17 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Jasun<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning Javascript<br>💞️ I’m looking to collaborate on Web Development<br>📫 How to reach me jasun266@gmail.com</p>
+<p align="left">👋 Hi, I’m Jasun<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning Javascript<br>💞️ I’m looking to collaborate on Web Development<br></p>
 
 ###
+<div align="left">
+  <a href="jasun266@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/shah-ul-jasun-7969a11bb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h2 align="left">I code with</h2>
 
